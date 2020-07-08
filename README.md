@@ -1,1 +1,1 @@
-Collection of only ACSL/compumatics practice over the course of a few years.
+Collection of only ACSL/compumatics practice. Also contained within 'Competitive Programming' repository.
